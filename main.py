@@ -6,7 +6,7 @@ BOT_TOKEN = "9023581977:AAGFvJTLy7ArrhwAd4vZrimzqClqnSkFR-g"
 CHAT_ID = "-1004491023055"
 
 # 你的商業推廣連結（可替換為你的交易所推薦碼或 VIP 客服連結）
-REF_LINK = "https://bingxzone.com/referral-program/JAHJZS?activityId=1633263696958816300"
+REF_LINK = "https://okx.com/join/96601016"
 VIP_CONTACT = "https://t.me/richway_crypto"
 
 def get_market_data(symbol):
